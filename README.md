@@ -26,6 +26,13 @@ We curated a list of resources for you to get a taste of how awesome software en
 - K5 2019: Breuninger auf neuen Pfaden - https://www.youtube.com/watch?v=girKa1MDpus
 - the code behind the fashion 2021 - Funktionale Programmierung statt Objektorientierung? - https://www.youtube.com/watch?v=oR6ARQkdQ2k
 
+## Open Source
+
+We ❤️ Open Source. A list of projects maintained by Breuninger teams:
+
+- Terraform Netbox Provider: A Terraform provider to manage Netbox inventories - https://registry.terraform.io/providers/e-breuninger/netbox/latest/docs
+- Ansible role Bitwarden: A Ansible role to deploy and manage Bitearden on premise - https://galaxy.ansible.com/breuninger/bitwarden
+
 ## Podcasts
 - Kassenzone K#363 Breuninger: Vom Kaufhaus zum E-Commerce Unternehmen - https://soundcloud.com/kassenzone/k363-breuninger-vom-kaufhaus-zum-e-commerce-unternehmen-ceo-holger-blecker
 
