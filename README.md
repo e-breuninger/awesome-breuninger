@@ -20,8 +20,11 @@ We curated a list of resources for you to get a taste of how awesome software en
 ## Talks
 - AWS Kundenerfolgsgeschichte: Breuninger - https://www.youtube.com/watch?v=oSAloNMy1Ew
 - code.talks 2018: Alles Klamotte oder was? - https://www.youtube.com/watch?v=76S1vIbt1-Y
+- code.talks 2018: Self-Contained-Systems – Mehr als nur eine geordnete Menge von Microservices? - https://www.youtube.com/watch?v=nHeHVvAKsWs 
+- code.talks commerce 2019: Self Contained Systems: The good, the bad & the ugly - https://www.youtube.com/watch?v=D3lJuilY33Q 
 - K5 2019: Software-Entwicklungen bei Breuninger - https://www.youtube.com/watch?v=L5tLZKuG8Fg
 - K5 2019: Breuninger auf neuen Pfaden - https://www.youtube.com/watch?v=girKa1MDpus
+- the code behind the fashion 2021 - Funktionale Programmierung statt Objektorientierung? - https://www.youtube.com/watch?v=oR6ARQkdQ2k
 
 ## Podcasts
 - Kassenzone K#363 Breuninger: Vom Kaufhaus zum E-Commerce Unternehmen - https://soundcloud.com/kassenzone/k363-breuninger-vom-kaufhaus-zum-e-commerce-unternehmen-ceo-holger-blecker
