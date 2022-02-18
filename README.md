@@ -7,8 +7,15 @@ We curated a list of resources for you to get a taste of how awesome software en
 - Self-Contained Systems: Assembling Software from Independent Systems - https://scs-architecture.org/
 - Data Mesh Principles and Logical Architecture - https://martinfowler.com/articles/data-mesh-principles.html
 - How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh - https://martinfowler.com/articles/data-monolith-to-mesh.html
-- From Monolith to Verticalization - https://www.innoq.com/en/cases/ecommerce-breuninger/
 - Was ist Vertikalisierung - https://www.neuland-bfi.de/blog/was-ist-vertikalisierung
+
+## Case Studies
+- From Monolith to Verticalization - https://www.innoq.com/en/cases/ecommerce-breuninger/
+- Jede Bestellbestätigung ist ein Versprechen - https://www.innoq.com/de/cases/breuninger-dom/
+
+## Culture
+- Remote Work: Vertrauen als Fundament für moderne Arbeit - https://www.innoq.com/de/blog/remote-work-vertrauen-als-fundament/
+- Remote Mob Programming - https://www.remotemobprogramming.org
 
 ## Talks
 - AWS Kundenerfolgsgeschichte: Breuninger - https://www.youtube.com/watch?v=oSAloNMy1Ew
