@@ -5,6 +5,8 @@ We curated a list of resources for you to get a taste of how awesome software en
 
 ## Architecture Principles
 - Self-Contained Systems: Assembling Software from Independent Systems - https://scs-architecture.org/
+- Micro Frontends: extending the microservice idea to frontend development - https://micro-frontends.org/
+- Independent Systems Architecture: Principles for Microservices - https://isa-principles.org/
 - Data Mesh Principles and Logical Architecture - https://martinfowler.com/articles/data-mesh-principles.html
 - How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - Was ist Vertikalisierung - https://www.neuland-bfi.de/blog/was-ist-vertikalisierung
