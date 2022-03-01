@@ -40,7 +40,7 @@ We ❤️ Open Source. A list of projects maintained by Breuninger teams:
 
 
 ## Breuninger YouTube Channels
-- Breuninger Developer Adventures - https://www.youtube.com/channel/UCnMFoDzZa9y5ozUFix0OtOQ 
+- Breuninger Digital Team - https://www.youtube.com/channel/UCnMFoDzZa9y5ozUFix0OtOQ 
 - Unser neues Warendienstleistungszentrum in Sachsenheim - https://www.youtube.com/watch?v=lz3ILIH16ys
 
 Got thrilled? Get in touch with us https://www.e-breuninger.de/de/karriere/it/
