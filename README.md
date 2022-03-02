@@ -27,6 +27,7 @@ We curated a list of resources for you to get a taste of how awesome software en
 - K5 2019: Software-Entwicklungen bei Breuninger - https://www.youtube.com/watch?v=L5tLZKuG8Fg
 - K5 2019: Breuninger auf neuen Pfaden - https://www.youtube.com/watch?v=girKa1MDpus
 - the code behind the fashion 2021 - Funktionale Programmierung statt Objektorientierung? - https://www.youtube.com/watch?v=oR6ARQkdQ2k
+- Team-Oriented-Architecture bei Breuninger: Facharchitektur mit mehreren Teams auf die Straße bringen - https://www.java-forum-stuttgart.de/vortraege/team-oriented-architecture-bei-breuninger/
 
 ## Open Source
 
