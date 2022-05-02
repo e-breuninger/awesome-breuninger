@@ -38,7 +38,7 @@ We ❤️ Open Source. A list of projects maintained by Breuninger teams:
 
 ## Podcasts
 - Kassenzone K#363 Breuninger: Vom Kaufhaus zum E-Commerce Unternehmen - https://soundcloud.com/kassenzone/k363-breuninger-vom-kaufhaus-zum-e-commerce-unternehmen-ceo-holger-blecker
-
+- ChefTreff CT #114: Felix Kreyer von Breuninger: Digitale Tradition über alle Kanäle - https://soundcloud.com/cheftreff/felix-kreyer-breuninger
 
 ## Breuninger YouTube Channels
 - Breuninger Digital Team - https://www.youtube.com/channel/UCnMFoDzZa9y5ozUFix0OtOQ 
