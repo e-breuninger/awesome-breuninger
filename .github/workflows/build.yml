@@ -1,0 +1,18 @@
+name: Build
+
+on:
+  - push
+  - pull_request
+
+jobs:
+  markdown:
+    name: Markdown lint
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Markdown Lint
+        uses: avto-dev/markdown-lint@v1.5.0
+        with:
+          config: '.markdownlint.json'
+          args: '.'
